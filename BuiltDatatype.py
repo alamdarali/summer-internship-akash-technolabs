@@ -1,6 +1,3 @@
-from operator import truediv
-
-
 x = 10
 y = 20.50
 z = "hello program"
