@@ -1,0 +1,7 @@
+
+hight  = float(input("enter the hight"))
+width  = float(input("enter the width"))
+
+area  =  hight * width
+
+print("the area of rectangle", area)
